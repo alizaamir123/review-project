@@ -43,14 +43,14 @@ a {
 .grid {
   display: flex;
 }
-  
+
 header {
   position: fixed;
   top: 0;
   display: flex;
   justify-content: space-around;
   min-height: 75px;
-  padding: 0px 20px;
+  padding: 0 20px;
   align-items: center;
   background-color: #eee;
 }
@@ -69,7 +69,7 @@ header {
   max-width: 300px;
   margin-left: 20px;
 }
- 
+
 nav {
   font-weight: 500;
 }
